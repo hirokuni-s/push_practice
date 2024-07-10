@@ -1,0 +1,11 @@
+2024-07-10 15:20:26.534 [info] 
+
+
+
+
+2024-07-10 15:20:26.534 [info] Extension host agent started.
+2024-07-10 15:20:26.573 [info] Started initializing default profile extensions in extensions installation folder. file:///home/hirokuni/.vscode-server/extensions
+2024-07-10 15:20:26.595 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/hirokuni/.vscode-server/extensions
+2024-07-10 15:20:26.631 [info] [127.0.0.1][f45aec37][ManagementConnection] New connection established.
+2024-07-10 15:20:27.106 [info] [127.0.0.1][0dee311a][ExtensionHostConnection] New connection established.
+2024-07-10 15:20:27.116 [info] [127.0.0.1][0dee311a][ExtensionHostConnection] <955> Launched Extension Host Process.
